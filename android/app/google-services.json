@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "61370533595",
+    "project_id": "quantum-ai-team",
+    "storage_bucket": "quantum-ai-team.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61370533595:android:93c375f98285c53878eefe",
+        "android_client_info": {
+          "package_name": "com.cgteam2.app.cgteamreborn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61370533595-hge3bj0ul4hmopms5vrto4oh16kntkni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5BuAzC1nc6rAD_L5_LV1iSjLrO-guq2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61370533595-hge3bj0ul4hmopms5vrto4oh16kntkni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "61370533595-3cp6adorbk6bmkj9kbbb7h421h37rg0v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cgteam2.app.OneSignalNotificationServiceExtension"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
